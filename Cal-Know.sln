@@ -6,6 +6,19 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cal-Know", "Cal-Know\Cal-Know.csproj", "{E35419E9-ACF6-48B4-841E-09E4DB5CCDBA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{28D1011D-E096-4FA6-9944-E1EF46D71481}"
+	ProjectSection(SolutionItems) = preProject
+		Cal-Know\AddArticle.html = Cal-Know\AddArticle.html
+		Cal-Know\Article1Example.jpg = Cal-Know\Article1Example.jpg
+		Cal-Know\ArticlesList.html = Cal-Know\ArticlesList.html
+		Cal-Know\CoAdminPage.html = Cal-Know\CoAdminPage.html
+		Cal-Know\CoordinatorLogin.html = Cal-Know\CoordinatorLogin.html
+		Cal-Know\DeleteArticle.html = Cal-Know\DeleteArticle.html
+		Cal-Know\EditArticle1.html = Cal-Know\EditArticle1.html
+		Cal-Know\EditArticle2.html = Cal-Know\EditArticle2.html
+		Cal-Know\ModerateSug.html = Cal-Know\ModerateSug.html
+		Cal-Know\SearchResults.html = Cal-Know\SearchResults.html
+		Cal-Know\SubmitSug.html = Cal-Know\SubmitSug.html
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
